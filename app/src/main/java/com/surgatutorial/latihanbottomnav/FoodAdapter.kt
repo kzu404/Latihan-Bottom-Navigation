@@ -1,4 +1,4 @@
-package com.surgatutorial.latihanrecyclerview
+package com.surgatutorial.latihanbottomnav
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -7,7 +7,7 @@ import android.widget.Filterable
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.surgatutorial.latihanrecyclerview.databinding.FoodListBinding
+import com.surgatutorial.latihanbottomnav.databinding.FoodListBinding
 import java.util.*
 import kotlin.collections.ArrayList
 

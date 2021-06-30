@@ -1,4 +1,4 @@
-package com.surgatutorial.latihanrecyclerview
+package com.surgatutorial.latihanbottomnav
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

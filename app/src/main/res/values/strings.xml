@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Latihan RecyclerView</string>
+    <string name="app_name">Latihan Bottom Navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_fav">Favorite</string>
+    <string name="title_profile">Profile</string>
+    <string name="search_hint">Search …</string>
 </resources>

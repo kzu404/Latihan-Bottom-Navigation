@@ -3,14 +3,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/search"
-        android:icon="@drawable/ic_search"
-        android:title="Search"
-        app:actionViewClass="androidx.appcompat.widget.SearchView"
-        app:showAsAction="collapseActionView|always" />
-    <item
         android:id="@+id/share_action"
         android:icon="@drawable/ic_share"
-        app:showAsAction="never"
+        app:showAsAction="ifRoom"
         android:title="Share"/>
 </menu>

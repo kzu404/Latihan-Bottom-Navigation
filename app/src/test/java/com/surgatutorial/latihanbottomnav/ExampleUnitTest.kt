@@ -1,4 +1,4 @@
-package com.surgatutorial.latihanrecyclerview
+package com.surgatutorial.latihanbottomnav
 
 import org.junit.Test
 
